@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "string.h": "c",
+        "unistd.h": "c",
+        "vector": "cpp",
+        "regex": "cpp"
+    }
+}
